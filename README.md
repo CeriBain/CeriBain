@@ -1,34 +1,53 @@
-Hi, I'm Ceri Bain 
+# Hey, I'm Ceri Bain 👋
 
-About Me
+💻 Junior Software Developer  
+📍 London | 🎓 Northcoders Bootcamp Graduate
 
-I'm a Junior Software Engineer based in London, transitioning from a creative background into tech. I'm passionate about building innovative systems that solve real problems, and I love the collaborative nature of software development.
-Currently completing the Northcoders Software Development Bootcamp (Dec 2025 - Mar 2026), where I'm gaining full-stack development skills and embracing the challenges of learning to code.
+Creative problem-solver transitioning from **academic administration** into **software development**.  
+I enjoy building **clean, useful systems**, learning new technologies, and collaborating with others to turn ideas into working code.
 
-Tech Stack
+---
 
-Languages: JavaScript (Node.js), Python
-Frontend: React, HTML, CSS
-Backend: SQL, PostgreSQL
-Testing: Jest, Supertest, TDD
-Tools: Git, Agile/SCRUM methodologies
-Hosting: Cloudflare, Netlify
+## ⚙️ Tech I Work With
 
-What I Bring
+**Languages**  
+JavaScript (Node.js) • Python  
 
-Strong problem-solving skills from managing complex data systems and student records
-Experience building and maintaining Excel trackers used across university teams
-Collaborative mindset developed through years of teaching and working in cross-functional teams
-Creative approach to technology, informed by my MA in music technology and creative projects
+**Frontend**  
+React • React Native • HTML • CSS  
 
-Background
+**Backend**  
+SQL • PostgreSQL • REST APIs  
 
-Before tech, I worked in higher education administration and as a session musician for 10+ years. My MA focused on creative technology projects, including connecting Raspberry Pi computers for collaborative performances.
+**Testing**  
+Jest • Supertest • TDD  
 
-Let's Connect
+**Tools & Workflow**  
+Git • Agile • Scrum  
 
-Email: ceribain14@gmail.com
-LinkedIn: linkedin.com/in/ceri-bain-811275220
+**Hosting**  
+Cloudflare • Netlify  
 
+---
 
-Check out my repositories below to see what I'm working on!
+## 🚀 What I Bring
+
+🧩 Analytical thinking from managing complex data systems  
+🤝 Collaborative mindset from teaching and cross-team work  
+🎵 Creative approach to technology from a creative tech background  
+
+---
+
+## 🎧 Before Tech
+
+Musician and educator for **10+ years**, with an MA in creative technology.  
+Built experimental projects including ** a Raspberry Pi network for remote musical collaboration during lockdown**.
+
+---
+
+## 📫 Let's Connect
+
+✉️ **Email:** ceribain14@gmail.com  
+💼 **LinkedIn:** linkedin.com/in/ceri-bain-811275220  
+
+⬇️ Check out my repositories to see what I'm building.
