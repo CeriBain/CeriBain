@@ -41,7 +41,7 @@ Cloudflare • Netlify
 ## 🎧 Before Tech
 
 Musician and educator for **10+ years**, with an MA in creative technology.  
-Built experimental projects including ** a Raspberry Pi network for remote musical collaboration during lockdown**.
+Built experimental projects including a Raspberry Pi network for remote musical collaboration during lockdown.
 
 ---
 
