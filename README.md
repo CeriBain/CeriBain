@@ -3,7 +3,7 @@
 💻 Junior Software Developer  
 📍 London | 🎓 Northcoders Bootcamp Graduate
 
-Creative problem-solver transitioning from **academic administration** into **software development**.  
+Creative problem-solver transitioning from **academic administration** in the creative industries into **software development**.  
 I enjoy building **clean, useful systems**, learning new technologies, and collaborating with others to turn ideas into working code.
 
 ---
@@ -14,10 +14,10 @@ I enjoy building **clean, useful systems**, learning new technologies, and colla
 JavaScript (Node.js) • Python  
 
 **Frontend**  
-React • React Native • HTML • CSS  
+React • React Native • HTML • CSS • Tailwind • 
 
 **Backend**  
-SQL • PostgreSQL • REST APIs  
+SQL • PostgreSQL • REST APIs • Supabase
 
 **Testing**  
 Jest • Supertest • TDD  
