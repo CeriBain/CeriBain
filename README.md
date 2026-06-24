@@ -35,7 +35,7 @@ Full-stack developer trained at Northcoders, working mainly in the JavaScript an
 
 ### Featured Projects
 
-#### SunRun — Weather-aware running route app *(in progress)*
+#### SunRun-=Weather-aware running route app *(in progress)*
 Suggests running routes based on live local weather. Pulls real-time conditions from Open-Meteo, generates routes through OpenRouteService, and handles authentication and saved routes with Supabase. Built with custom React hooks and TypeScript throughout.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -47,7 +47,7 @@ Suggests running routes based on live local weather. Pulls real-time conditions 
 
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CeriBain/SunRun)
 
-#### NC News — Front-end news platform
+#### NC News-Front-end news platform
 A responsive social-news front-end consuming a RESTful API. Users browse articles by topic, vote and post comments, with dynamic routing, state management and error handling throughout. Powered by the NC News API below.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -58,7 +58,7 @@ A responsive social-news front-end consuming a RESTful API. Users browse article
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CeriBain/nc-news)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://nc-news-deployed.netlify.app/)
 
-#### NC News API — RESTful back-end service
+#### NC News API-RESTful back-end service
 The back-end powering NC News. Full CRUD over a normalised PostgreSQL schema, built on an MVC structure with migrations and seeded data. Endpoints and error handling were developed test-first with Jest and Supertest.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
