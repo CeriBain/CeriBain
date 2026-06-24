@@ -14,11 +14,10 @@
 
 ### About
 
-Full-stack developer trained at Northcoders, working mainly in the JavaScript and TypeScript ecosystem. I build RESTful APIs and responsive front-ends with React, Node, Express and PostgreSQL, and test them with Jest, Supertest and a test-driven approach. I'm currently taking on software-focused contract work — debugging and reviewing AI-generated code across several languages and frameworks — alongside building my own projects. Before moving into development I spent a few years in university administration, which is where the documentation habits and attention to detail I still rely on came from.
+Full-stack developer trained at Northcoders, working mainly in the JavaScript and TypeScript ecosystem. I build RESTful APIs and responsive front-ends with React, Node, Express and PostgreSQL, and test them with Jest, Supertest and a test-driven approach. I'm currently taking on software-focused contract work-debugging and reviewing AI-generated code across several languages and frameworks-alongside building my own projects. Before moving into development I spent a few years in university administration, which is where the documentation habits and attention to detail I still rely on came from.
 
 **Currently**
 - Building [SunRun](https://github.com/CeriBain/SunRun), a weather-aware running route app
-- Learning Python, following an introductory course at City St George's, University of London
 - Open to junior and graduate software roles
 
 ---
@@ -84,4 +83,4 @@ The back-end powering NC News. Full CRUD over a normalised PostgreSQL schema, bu
 
 ### Beyond the Code
 
-Ten-plus years as a drummer, and I raise money for cancer charities through endurance events — including the 2025 London Marathon and a Brighton Marathon marking ten years cancer-free.
+Ten-plus years as a drummer, and I raise money for cancer charities through endurance events-including the 2025 London Marathon and a Brighton Marathon marking ten years cancer-free.
